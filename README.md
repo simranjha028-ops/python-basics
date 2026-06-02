@@ -6,5 +6,7 @@ This repository contains my beginner Python practice programs.
 -Strings
 -Slicing
 -Input and Output
+-Lists
+-Tuple
 ##Purpose:
 I am learning Python step by step and uploading my practice programs to track my progress.
