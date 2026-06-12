@@ -8,5 +8,7 @@ This repository contains my beginner Python practice programs.
 -Input and Output
 -Lists
 -Tuple
+-Condtitional statements
+-Loops
 ##Purpose:
 I am learning Python step by step and uploading my practice programs to track my progress.
